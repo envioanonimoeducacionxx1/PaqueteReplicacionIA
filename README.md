@@ -5,6 +5,7 @@ Paquete de replicación del artículo "Comprender el impacto de la inteligencia 
 
 ## Cuestionarios
 - [Cuestionario de valoración para estudiantes](CuestionarioEstudiantes.md)
+- [Cuestionario de valoración para docentes](CuestionarioEstudiantes.md)
 
 ## Recursos educativos abiertos
 - [Inteligencia artificial en el aula con Scratch y ML4K](https://code.intef.es/prop_didacticas/inteligencia-artificial-en-el-aula-con-scratch-3-0/)
