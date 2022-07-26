@@ -36,7 +36,7 @@ Tras haber realizado en las últimas semanas las ACTIVIDADES sobre pensamiento c
 - ¿Te gustaría tener más ACTIVIDADES sobre pensamiento computacional e inteligencia artificial el próximo curso?
 
 ## BLOQUE D – VALORACIÓN GLOBAL
-¿Qué es lo que MÁS te ha gustado de estas actividades?
-¿Qué es lo que MENOS te ha gustado de estas actividades?
-¿Tienes alguna propuesta o sugerencia para MEJORAR estas actividades? 
-Globalmente, ¿Cuál es tu valoración de estas ACTIVIDADES sobre pensamiento computacional e inteligencia artificial?
+- ¿Qué es lo que MÁS te ha gustado de estas actividades?
+- ¿Qué es lo que MENOS te ha gustado de estas actividades?
+- ¿Tienes alguna propuesta o sugerencia para MEJORAR estas actividades? 
+- Globalmente, ¿Cuál es tu valoración de estas ACTIVIDADES sobre pensamiento computacional e inteligencia artificial?
