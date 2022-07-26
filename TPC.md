@@ -34,4 +34,4 @@
 - ¿Qué le falta a la siguiente secuencia para que el artista dibuje el siguiente diseño? Cada uno de los lados de cada triángulo mide 50 píxeles
 - ¿Qué órdenes van llevando a ‘Pac-Man’ por el camino señalado e indicándole que se coma el número de fresas correspondiente?
 - ¿Qué falta en la siguiente secuencia para llevar a ‘Pac-Man’ por el camino señalado hasta las fresas, comiendo el número de fresas indicado?
-- 
+
