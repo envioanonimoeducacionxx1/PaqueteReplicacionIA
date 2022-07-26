@@ -2,7 +2,9 @@
 Paquete de replicación del artículo "Comprender el impacto de la inteligencia artificial desde la escuela: Conclusiones de una experiencia educativa masiva desarrollada a nivel nacional"
 
 ## Pruebas cuantitativas
+Los instrumentos utilizados en la investigación, tanto el TPC como la P-IA, son de acceso libre y gratuito para toda la comunidad educativa bajo petición a los autores de esta investigación (email eliminado para mantener el anonimato durante la revisión del artículo). Para que el lector pueda tener una visión más clara de ambos instrumentos se han incluido a continuación el enunciado de las preguntas de cada ítem:
 - [Prueba de conocimientos de inteligencia artificial](P-IA.md)
+- [Test de pensamiento computacional](TPC.md)
 
 ## Cuestionarios
 - [Cuestionario de valoración para estudiantes](CuestionarioEstudiantes.md)
