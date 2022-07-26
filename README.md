@@ -12,7 +12,7 @@ Del mismo modo, los cuestionarios de valoración dirigidos a docentes y estudian
 - [Cuestionario de valoración para docentes](CuestionarioDocentes.md)
 
 ## Recursos educativos abiertos
-Los siguientes recursos educativos abiertos, que contienen videotutoriales y guías que pueden utilizarse en el aula, ilustran el tipo de proyectos con los que trabajó el profesorado durante la fase de formaci
+Los siguientes recursos educativos abiertos, que contienen videotutoriales y guías que pueden utilizarse en el aula, ilustran el tipo de proyectos con los que trabajó el profesorado durante la fase de formación:
 - [Inteligencia artificial en el aula con Scratch y ML4K](https://code.intef.es/prop_didacticas/inteligencia-artificial-en-el-aula-con-scratch-3-0/)
 - [¿Podemos fiarnos de la Inteligencia Artificial?](https://code.intef.es/prop_didacticas/podemos-fiarnos-de-la-inteligencia-artificial/)
 - [Actividades prácticas para conocer y reflexionar sobre los sistemas de reconocimiento facial](https://code.intef.es/prop_didacticas/actividades-practicas-para-conocer-y-reflexionar-sobre-los-sistemas-de-reconocimiento-facial-con-scratch-lab-face-sensing/)
