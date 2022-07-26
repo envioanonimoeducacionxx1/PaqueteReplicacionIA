@@ -9,7 +9,7 @@ Paquete de replicación del artículo "Comprender el impacto de la inteligencia 
 
 ## Experiencias en centros educativos
 
-Las memorias elaboradas por el profesorado participante en el estudio incluyen información muy valiosa, ya que además de los objetivos, estructura de las sesiones y rúbricas de evaluación, también cuentan con reflexiones sobre las dificultades encontradas y logros alcanzados.
+Las memorias elaboradas por el profesorado participante en el estudio incluyen información muy valiosa, ya que además de los objetivos, estructura de las sesiones y rúbricas de evaluación, también cuentan con reflexiones sobre las dificultades encontradas y logros alcanzados. A continuación puede accederse a una selección de las propuestas mejor valoradas:
 
 - [Aprendizaje inteligente de los municipios de la comarca](https://code.intef.es/buenas_practicas_epc/aprendizaje-inteligente-de-los-municipios-de-la-comarca/)
 - [Scratch e Inteligencia Artificial en Lengua Castellana y Ciencias Sociales](https://code.intef.es/buenas_practicas_epc/scratch-e-inteligencia-artificial-en-lengua-castellana-y-ciencias-sociales/)
