@@ -2,16 +2,17 @@
 Paquete de replicación del artículo "Comprender el impacto de la inteligencia artificial desde la escuela: Conclusiones de una experiencia educativa masiva desarrollada a nivel nacional"
 
 ## Pruebas cuantitativas
-Los instrumentos utilizados en la investigación, tanto el TPC como la P-IA, son de acceso libre y gratuito para toda la comunidad educativa e investigadora bajo petición a los autores de esta investigación (email eliminado para mantener el anonimato durante la revisión del artículo). Para que el lector pueda tener una visión más clara de ambos instrumentos se han incluido a continuación el enunciado de las preguntas de cada ítem de ambos instrumentos:
+Los instrumentos utilizados en la investigación, tanto el TPC como la P-IA, son de acceso libre y gratuito para toda la comunidad educativa e investigadora bajo petición a los autores de esta investigación (email eliminado para mantener el anonimato durante la revisión del artículo). Para que el lector pueda tener una visión más clara de ambos instrumentos se ha incluido a continuación el enunciado de las preguntas de cada ítem de ambos instrumentos:
 - [Prueba de conocimientos de inteligencia artificial](P-IA.md)
 - [Test de pensamiento computacional](TPC.md)
 
 ## Cuestionarios
-Del mismo modo, los cuestionarios dirigidos a docentes y estudiantes -diseñados «ad-hoc» para esta investigación- están también disponibles para la comunidad educativa e investigadora bajo demanda. A continuación puede accederse a las preguntas planteadas a alumnos y profesores, que fueron creadas específicamente para este estudio a partir de los objetivos que se perseguían:
+Del mismo modo, los cuestionarios de valoración dirigidos a docentes y estudiantes están también disponibles para la comunidad educativa e investigadora bajo demanda. A continuación puede accederse a las preguntas planteadas a alumnos y profesores, que fueron creadas específicamente para este estudio a partir de los objetivos que se perseguían:
 - [Cuestionario de valoración para estudiantes](CuestionarioEstudiantes.md)
 - [Cuestionario de valoración para docentes](CuestionarioDocentes.md)
 
 ## Recursos educativos abiertos
+Los siguientes recursos educativos abiertos, que contienen videotutoriales y guías que pueden utilizarse en el aula, ilustran el tipo de proyectos con los que trabajó el profesorado durante la fase de formaci
 - [Inteligencia artificial en el aula con Scratch y ML4K](https://code.intef.es/prop_didacticas/inteligencia-artificial-en-el-aula-con-scratch-3-0/)
 - [¿Podemos fiarnos de la Inteligencia Artificial?](https://code.intef.es/prop_didacticas/podemos-fiarnos-de-la-inteligencia-artificial/)
 - [Actividades prácticas para conocer y reflexionar sobre los sistemas de reconocimiento facial](https://code.intef.es/prop_didacticas/actividades-practicas-para-conocer-y-reflexionar-sobre-los-sistemas-de-reconocimiento-facial-con-scratch-lab-face-sensing/)
