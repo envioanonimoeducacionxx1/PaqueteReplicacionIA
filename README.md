@@ -2,6 +2,7 @@
 Paquete de replicación del artículo "Comprender el impacto de la inteligencia artificial desde la escuela: Conclusiones de una experiencia educativa masiva desarrollada a nivel nacional"
 
 ## Pruebas cuantitativas
+- [Prueba de conocimientos de inteligencia artificial](P-IA.md)
 
 ## Cuestionarios
 - [Cuestionario de valoración para estudiantes](CuestionarioEstudiantes.md)
