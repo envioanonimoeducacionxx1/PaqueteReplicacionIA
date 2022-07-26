@@ -14,7 +14,7 @@ Las memorias elaboradas por el profesorado participante en el estudio incluyen i
 - [Aprendizaje inteligente de los municipios de la comarca](https://code.intef.es/buenas_practicas_epc/aprendizaje-inteligente-de-los-municipios-de-la-comarca/)
 - [Scratch e Inteligencia Artificial en Lengua Castellana y Ciencias Sociales](https://code.intef.es/buenas_practicas_epc/scratch-e-inteligencia-artificial-en-lengua-castellana-y-ciencias-sociales/)
 - [Cuidamos nuestro cuerpo](https://code.intef.es/buenas_practicas_epc/cuidamos-nuestro-cuerpo/)
-- [Bike or Bus]([Bike or Bus](https://code.intef.es/buenas_practicas_epc/bike-or-bus/))
+- [Bike or Bus](https://code.intef.es/buenas_practicas_epc/bike-or-bus/)
 - [Juegas con ventaja si sabes matemáticas](https://code.intef.es/buenas_practicas_epc/juegas-con-ventaja-si-sabes-matematicas/)
 - [Hábitos para la prevención de la COVID-19](https://code.intef.es/buenas_practicas_epc/habitos-para-la-prevencion-de-la-covid-19/)
 - [Programar con Inteligencia Artificial: La Prehistoria](https://code.intef.es/buenas_practicas_epc/programar-con-inteligencia-artificial-la-prehistoria/)
