@@ -1,4 +1,4 @@
-# Cuestionario de valoraci
+# Cuestionario de valoración para estudiantes
 
 ## BLOQUE A – DATOS SOBRE EL ESTUDIANTE
 - ¿Cuál es tu sexo?
