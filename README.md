@@ -4,7 +4,7 @@ Paquete de replicación del artículo "Evaluación de una intervención educativ
 ## Pruebas cuantitativas
 Los instrumentos utilizados en la investigación, tanto el TPC como la P-IA, son de acceso libre y gratuito para toda la comunidad educativa e investigadora bajo petición a los autores de esta investigación (email eliminado para mantener el anonimato durante la revisión del artículo). Para que el lector pueda tener una visión más clara de ambos instrumentos se ha incluido a continuación el enunciado de las preguntas de cada ítem de las dos pruebas:
 - [Prueba de conocimientos de inteligencia artificial](P-IA.md)
-- [Test de pensamiento computacional](TPC.md)
+- [Test de pensamiento computacional](https://docs.google.com/forms/d/e/1FAIpQLSd4wOZd4CVougbLdIhD2OwnzDqQPDfeU7ooVdfWHBirzwyBjQ/viewform)
 
 ## Cuestionarios
 Del mismo modo, los cuestionarios de valoración dirigidos a docentes y estudiantes están también disponibles para la comunidad educativa e investigadora bajo demanda. A continuación puede accederse a las preguntas planteadas a alumnos y profesores, que fueron creadas específicamente para este estudio a partir de los objetivos que se perseguían:
